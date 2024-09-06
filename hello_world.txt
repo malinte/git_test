@@ -1,0 +1,6 @@
+Hi Everyone, this is a file i want to stage
+if you do not agree, do not fear
+i have a special trick up my sleave
+i can stage and then i wont commit
+or am i lying?
+that is for you to figure out from this file
